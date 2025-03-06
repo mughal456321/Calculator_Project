@@ -1,5 +1,5 @@
-Console.WriteLine("Haroon Mughal");
-Console.WriteLine("ST-24-006");
+Console.WriteLine("Mughal BadShah");
+Console.WriteLine("ST-24-6");
 
 Addition :
 int a;
