@@ -1,8 +1,36 @@
 Console.WriteLine("Haroon Mughal");
 Console.WriteLine("ST-24-006");
 
+
+
+
+Division:
+
+int X;
+int Y;
+int div = (X%Y);
+
+Console.WriteLine("div");
+
+Multiplaction:
+ int A;
+int B;
+int multiply = (A*B);
+
+Console.WriteLine("multiply");
+
+
+Substraction:
+int x;
+int y;
+int sub = (x-y);
+
+Console.WriteLine("sub);
+
+
 Addition :
 int a;
 int b;
 int sum = (a+b);
 Console.WriteLine("sum");
+
