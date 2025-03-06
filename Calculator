@@ -1,2 +1,9 @@
 Console.WriteLine("Haroon Mughal");
 Console.WriteLine("ST-24-006");
+
+Substraction:
+int x;
+int y;
+int sub = (x-y);
+
+Console.WriteLine("sub);
