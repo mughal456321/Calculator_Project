@@ -1,2 +1,9 @@
 Console.WriteLine("Haroon Mughal");
 Console.WriteLine("ST-24-006");
+
+Multiplaction:
+ int A;
+int B;
+int multiply = (A*B);
+
+Console.WriteLine("multiply");
