@@ -1,5 +1,10 @@
+ Conflict_Branch2
 Console.WriteLine("PYSCHO");
 Console.WriteLine("SE-24-006");
+
+Console.WriteLine("Mughal BadShah");
+Console.WriteLine("ST-24-6");
+main
 
 Addition :
 int a;
