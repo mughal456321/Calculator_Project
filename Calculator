@@ -1,2 +1,8 @@
 Console.WriteLine("Haroon Mughal");
 Console.WriteLine("ST-24-006");
+
+Addition :
+int a;
+int b;
+int sum = (a+b);
+Console.WriteLine("sum");
