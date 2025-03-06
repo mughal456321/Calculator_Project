@@ -1,2 +1,10 @@
 Console.WriteLine("Haroon Mughal");
 Console.WriteLine("ST-24-006");
+
+Division:
+
+int X;
+int Y;
+int div = (X%Y);
+
+Console.WriteLine("div");
