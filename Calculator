@@ -3,6 +3,7 @@ Console.WriteLine("ST-24-006");
 
 
 
+
 Division:
 
 int X;
@@ -25,4 +26,11 @@ int y;
 int sub = (x-y);
 
 Console.WriteLine("sub);
+
+
+Addition :
+int a;
+int b;
+int sum = (a+b);
+Console.WriteLine("sum");
 
